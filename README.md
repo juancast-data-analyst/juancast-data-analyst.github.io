@@ -1,6 +1,8 @@
 ---
 theme: jekyll-theme-orderedlist
+title: Portafolio de Proyectos - Análisis de Datos
 
+---
 # Juan Castelblanco – Data Analyst Portfolio
 
 ---
