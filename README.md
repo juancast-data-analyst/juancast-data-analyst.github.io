@@ -1,5 +1,7 @@
 # Juan Castelblanco – Data Analyst Portafolio
 
+<img src="https://github.com/user-attachments/assets/18b5c795-a13a-4ffe-9363-3dca78070114" alt="En el Trabajo" width="180" height="180" style="border-radius: 50%; object-fit: cover;" />
+
 
 ---
 
