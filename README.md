@@ -7,10 +7,6 @@ title: Portafolio de Proyectos - Análisis de Datos
 
 ---
 
-<img width="1200" height="1600" alt="En el Trabajo" src="https://github.com/user-attachments/assets/566cb46b-f6fe-490f-8c62-316c7afc4901" />
-
----
-
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-Junior-brown?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-357ebd?style=for-the-badge&logo=postgresql&logoColor=white)
