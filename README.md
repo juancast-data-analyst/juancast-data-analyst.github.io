@@ -1,5 +1,6 @@
 # Juan Castelblanco – Data Analyst Portfolio
 
+
 ![Data Analyst](https://img.shields.io/badge/Data_Analyst-Junior-brown?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-357ebd?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -130,3 +131,6 @@ Oportunidades remotas como **Data Analyst Junior** en empresas donde los datos g
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancastelblanco0126)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancastelblanco.da@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juancast-data-analyst)
+
+```markdown
+![Tu Nombre](En el Trabajo.jpeg)
