@@ -134,6 +134,4 @@ Oportunidades remotas como **Data Analyst Junior** en empresas donde los datos g
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancastelblanco0126)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juancastelblanco.da@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juancast-data-analyst)<img width="1200" height="1600" alt="En el Trabajo" src="https://github.com/user-attachments/assets/69ceb790-9903-4490-b98b-c0532bcd7f05" />
-<img width="1200" height="1600" alt="En el Trabajo" src="https://github.com/user-attachments/assets/71c8600e-9a06-414d-b5d8-3ac237909e3e" />
-
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juancast-data-analyst)
